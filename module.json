@@ -1,0 +1,6 @@
+{
+    "servers": ["https://raw.githubusercontent.com/Kaseaa/no-more-desynced-bodies/master/"],
+    "supportUrl": "https://github.com/Kaseaa/no-more-desynced-bodies/issues",
+    "name": "no-more-desynced-bodies",
+    "disableAutoUpdate": false
+}
